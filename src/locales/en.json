@@ -1,0 +1,24 @@
+{
+  "menu": {
+    "about": "A propos",
+    "manage": "Manage",
+    "logout": "Logout",
+    "log": "Login / Register"
+  },
+  "home": {
+    "mainlist": "titles",
+    "listen": "Listen to Great Music!",
+    "intro": "Welcome to MUSIC, your new destination for independent music where artists and music lovers meet. Share your creations with the world of discovery and support artists by purchasing and downloading your favorites. Dive into a rich and varied musical universe."
+  },
+  "song": {
+    "comment-count": "No comment | 1 comment | {count} comments"
+  },
+  "register": {
+    "accept": "I accept Music's {0}",
+    "tos": "Terms of Service"
+  },
+  "manage": {
+    "mysongs": "My Songs",
+    "upload": "Upload"
+  }
+}

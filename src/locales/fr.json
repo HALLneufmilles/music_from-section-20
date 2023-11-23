@@ -1,0 +1,24 @@
+{
+  "menu": {
+    "about": "A propos",
+    "manage": "Gérer",
+    "logout": "Quitter",
+    "log": "Se connecter / S'enregistrer"
+  },
+  "home": {
+    "mainlist": "titres",
+    "listen": "Écoutez de la bonne musique!",
+    "intro": "Bienvenue sur MUSIC, votre nouvelle destination pour la musique indépendante où artistes et mélomanes se retrouvent. Partagez vos créations avec le monde de la  découverte et soutenez les artistes en achetant et téléchargeant vos favoris. Plongez dans un univers musical riche et varié."
+  },
+  "song": {
+    "comment-count": "Aucun commentaire | 1 commentaire | {count} commentaires"
+  },
+  "register": {
+    "accept": "J'accepte les {0}",
+    "tos": "Termes et conditions d'utilisation"
+  },
+  "manage": {
+    "mysongs": "Mes Titres",
+    "upload": "Envoyez"
+  }
+}
